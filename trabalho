@@ -1,0 +1,44 @@
+// 1- o codigo faz um loop ate que o "i" e o valor seja igual a 5
+// 10
+
+
+// 2 - a) 21, 23,25, 27, 30
+// b) sim. não utilizamos o if
+
+
+// 3- 
+//*
+//**
+//***
+//****
+
+//
+
+// exercicios escrita
+
+// 1-
+
+// const quantidade = Number(prompt("quantos bichinhos voce tem"))
+
+// if (quantidade === 0) {
+//   console.log("voce pode adotar um bichinho se quiser")
+// } else if (quantidade > 0) {
+//   const nomes = [];
+
+//   for (let i = 0; i < quantidade; i++) {
+//     const nomePet = prompt('digite o nome do seu animal de estimacao:');
+//     nomes.push(nomePet);
+//   }
+//   console.log("qui estao os nomes:");
+//   for (let i = 0; i < nomes.length; i++) {
+//     console.log(nomes[i]);
+//   }
+// }
+
+// 2- 
+
+const array = [10, 20, 30, 40, 50]
+
+function original() {
+  for()
+}
